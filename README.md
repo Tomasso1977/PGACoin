@@ -1,0 +1,2 @@
+# PGACoin
+Cryptocurrency 
